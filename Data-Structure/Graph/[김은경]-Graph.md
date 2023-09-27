@@ -12,6 +12,18 @@
 * 경로 길이(path length): 경로를 구성하는데 사용된 간선의 수 
 * 사이클(cycle): 단순 경로 시작 정점과 종료 정점이 동일한 경우
 
+## 그래프 종류
+
+## 그래프 구현 방법
+
+## 그래프 탐색
+
+### 깊이 우선 탐색(DFS)
+
+### 넓이 우선 탐색(BFS)
+
+
+
 
 ## 코드 구현
 ```swift
@@ -106,4 +118,10 @@ Node value: 3
 
 Node value: 4
 
+```
+
+## 참조
+```text
+https://80000coding.oopy.io/125156cf-79bb-48da-82ae-1f2ee7896bb8
+https://hongcoding.tistory.com/78
 ```
