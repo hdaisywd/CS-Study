@@ -1,4 +1,12 @@
 # 이더넷과 무선 LAN
+
+## 들어가기 앞서...
+홍다희님과 겹치는 내용이 많아 하나로 통합한 노션 페이지가 있습니다!
+확인을 먼저 해보시는 것을 추천 드릴께요!
+
+https://www.notion.so/LAN-ce69f59117a04995941dec7b08ce6442?pvs=4
+<br/><br/>
+
 ### 이더넷 (Local Area Network)이란?
 - 가장 대표적인 컴퓨터 네트워크 기술 중 하나로 케이블 선을 통해 데이터를 전달 받고 연결되어 있도록 도와주는 기술이라고 한다.<br/>이 때 MAC(Media Access Control Address) 주소를 통해 어떤 이더넷을 활용하는지 특정한다고 하는데 - 더 알아가보자!<br/>
 - 선으로 연결이 되어 저렴한 비용 대비 빠른 네트워크 속도를 자랑하는데, 공공기관이나 빠른 네트워크가 필요한 사용자들이 이더넷을 애용한다.
@@ -52,3 +60,4 @@ ___
 - https://velog.io/@learningssik/초심자를-위한-네트워크-설명-4-이더넷과-무선-LAN
 - https://deveun.tistory.com/entry/Network-이더넷Ethernet이란
 - https://jhnyang.tistory.com/404
+- https://m.blog.naver.com/jchyuncorp/222033619668
