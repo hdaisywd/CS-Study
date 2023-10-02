@@ -44,12 +44,22 @@
  
 ## 그래프 탐색
 
-### 깊이 우선 탐색(DFS)
+### 깊이 우선 탐색(DFS) -> Depth-First Search
+
+* 스택 또는 재귀함수 구현
+* 루트 노드에서 시작해서 다음 분기로 넘어가기 전에 해당 분기를 완벽하게 탐색
+* 쉬운말: 최대한 한 방향으로 갈 수 있을 때까지 가다가 없으면 다시 가까운 갈림길로 돌아와서 그 갈림길부터 다른 방향으로 탐색하는 것
+
+![images-lucky-korma-post-30737a15-9adf-49a6-96a0-98c211cab1cc-R1280x0](https://github.com/Luna828/CS-Study/assets/93186591/9e8563f6-38a8-40b7-9d52-789b963963c8)
 
 
+### 넓이 우선 탐색(BFS) -> Breadth-First Search
 
-### 넓이 우선 탐색(BFS)
+* 큐를 이용하여 구현
+* 루트노드에서 시작해서 인접한 노드를 먼저 탐색
+* 주로 노드 사이의 최단 경로를 찾고 싶을 때 사용
 
+![images-lucky-korma-post-2112183b-bfcd-427e-8072-c9dc983180ba-R1280x0-2](https://github.com/Luna828/CS-Study/assets/93186591/140daf2e-f7e2-49f4-bc57-bd5fbc96ee64)
 
 
 ## 코드 구현
@@ -151,4 +161,6 @@ Node value: 4
 ```text
 https://80000coding.oopy.io/125156cf-79bb-48da-82ae-1f2ee7896bb8
 https://hongcoding.tistory.com/78
+https://hsc-tech.tistory.com/12
+https://velog.io/@lucky-korma/DFS-BFS의-설명-차이점
 ```
